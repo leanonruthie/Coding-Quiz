@@ -1,0 +1,136 @@
+*{
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    font-size: 17px;
+    color: white;
+}
+
+body {
+    background-color: skyblue;
+    font-family: sans-serif;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height: 80%;
+    overflow: hidden;
+    margin: 0;
+}
+
+button {
+    color: white;
+    background-color: orange;
+    width: 100%;
+    justify-content: center;
+    cursor: pointer;
+    display: block;
+    font-size: 17px;
+    font-family: sans-serif;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-style: none;
+    margin-bottom: 11px;
+}
+
+button:focus{
+    background-color: darkslategrey;
+    outline: none;
+}
+
+form{
+    color: darkslategrey;
+    font-size:17px;
+    text-align: center;
+    padding-bottom: 37px;
+}
+
+h1, h3 {
+    padding-top: 11px;
+    text-align: center;
+    font-size: 37px;
+    color:orange;
+}
+
+h2 {
+    color: darkslategrey;
+    padding-top: 17px;
+    padding-left: 11px;
+    padding-right: 11px;
+    font-size: 17px;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 17px;
+    color: darkslategrey;
+}
+
+ul {
+    list-style-type: none;
+    padding-bottom: 17px;
+}
+
+li {
+    color: darkslategrey;
+    padding-left:7px;
+    padding-right: 7px;
+    font-size: 17px;
+}
+
+.leads-container ol {
+    color: darkslategrey;
+    padding-left:45%;
+}
+
+.scoreboard-container {
+    margin-top: 17%;
+    background-color: white;
+    border-radius: 7px;
+    width: 500px;
+    overflow: hidden;
+}
+
+.leads-container {
+    margin-top: 17%;
+    background-color: white;
+    border-radius: 7px;
+    width: 500px;
+    overflow: hidden;
+}
+
+.main-container {
+    margin-top: 17%;
+    background-color: white;
+    border-radius: 7px;
+    width: 500px;
+    overflow: hidden;
+}
+
+.quiz-container {
+    margin-top: 17%;
+    background-color: white;
+    border-radius: 7px;
+    width: 500px;
+    overflow: hidden;
+}
+
+#quiz ul {
+    padding-left: 31%;
+    padding-bottom:7px;
+}
+
+#timer {
+    background-color: teal;
+    color: white;
+    font-size: 17px;
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding-top:1%;
+    padding-bottom: 1%;
+    border-width: 1px;
+    border-color: lightgrey;
+}
