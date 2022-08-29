@@ -1,13 +1,13 @@
 # Coding-Quiz
 
 ## User Story
-
+```md
 AS A job applicant
 I WANT to take a timed quiz that stores high scores in front of a hiring manager/recruiter
 SO THAT I can prove my competence and land a job interview
-
+```
 ## Acceptance Criteria
-
+```md
 GIVEN I am taking a timed quiz
 WHEN the quiz begins with detailed instructions 
 THEN I read the instructions carefully and click the start button 
@@ -19,7 +19,7 @@ WHEN the time is up or I answer all questions before my time is up
 THEN the quiz is complete
 WHEN the quiz is completed
 THEN I am able to record my score with my initial for recruiter to see and determine whether I'm a congruent candidate for the job or not
-
+```
 ## Link
 <a href=https://leanonruthie.github.io/Coding-Quiz>https://leanonruthie.github.io/Coding-Quiz/</a>
 
