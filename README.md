@@ -21,7 +21,7 @@ WHEN the quiz is completed
 THEN I am able to record my score with my initial for recruiter to see and determine whether I'm a congruent candidate for the job or not
 ```
 ## Link
-<a href=https://leanonruthie.github.io/Coding-Quiz>https://leanonruthie.github.io/Coding-Quiz/</a>
+[My Coding Quiz](https://leanonruthie.github.io/Coding-Quiz)
 
 ## Screenshots
 <img src="./Assets/images/leanonruthie.github.io_RYK-Module-04-07-19-22_index.html.png" alt="Home Page"/>
